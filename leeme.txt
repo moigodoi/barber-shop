@@ -1,2 +1,1 @@
-https://github.com/moigodoi/barber-shop.git
-
+https://moigodoi.github.io/barber-shop/
